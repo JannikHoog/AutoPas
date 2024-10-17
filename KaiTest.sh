@@ -12,4 +12,4 @@
 #SBATCH --mail-type=end
 #SBATCH --time=00:01:00
 
-./build/examples/md-flexible/md-flexible --yaml-filename fallingDrop.yaml
+./build/examples/md-flexible/md-flexible --yaml-filename ./build/examples/md-flexiblefallingDrop.yaml
